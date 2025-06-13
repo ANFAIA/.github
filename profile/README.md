@@ -1,4 +1,4 @@
-# Anfaia
+# Anfaia (Asociación Nacional Faro, para la Aceleración de la Inteligencia Artificial)
 
 🌱 **Anfaia** es una iniciativa sin ánimo de lucro que busca acercar la Inteligencia Artificial (IA) a las personas, promoviendo su uso responsable, inclusivo y transparente en la sociedad.  
 

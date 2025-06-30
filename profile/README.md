@@ -46,4 +46,4 @@ En este perfil publicamos:
 - Ayudarnos a difundir nuestra misión.
 - Participar en nuestras actividades o formaciones.
 
-Contáctanos a través de [contacto@anfaia.org](mailto:contacto@anfaia.org) o desde nuestra [web](https://www.anfaia.org).
+Contáctanos a través de [info@anfaia.org](mailto:info@anfaia.org) o desde nuestra [web](https://www.anfaia.org).

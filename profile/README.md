@@ -30,7 +30,8 @@ Consulta el programa completo aquí 👉 [anfaia.org/#programa](https://www.anfa
 
 
 ## Charlas Anfaia
-- [“Uso de la IA como herramienta de programación”](charlas/Ismael_faro.md)
+- Ismael Faro: [“Uso de la IA como herramienta de programación”](../charlas/Ismael_faro.md)
+- Pablo García Fortes: ["El viaje del autoconocimiento: Navegando la reinvención profesional con propósito"](../charlas/pablo_garcia.md)
 
 
 ## ¿Qué encontrarás en este GitHub?

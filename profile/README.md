@@ -28,6 +28,11 @@ Nuestro programa se estructura en varias áreas clave:
 
 Consulta el programa completo aquí 👉 [anfaia.org/#programa](https://www.anfaia.org/#programa)
 
+
+## Charlas Anfaia
+- [“Uso de la IA como herramienta de programación”](charlas/Ismael_faro.md)
+
+
 ## ¿Qué encontrarás en este GitHub?
 
 En este perfil publicamos:

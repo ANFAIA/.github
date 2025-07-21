@@ -22,4 +22,4 @@ Perfil activo en LinkedIn, Instagram y GitHub bajo **Ismael Faro / Ismael Faro S
 
 - [LinkedIn](https://www.linkedin.com/in/ismaelfaro)
 - [Presentación (Google Drive)](https://drive.google.com/file/d/1u-IfwTfsoB-I_OBBzMFa-9WIoINu3EPG/view?usp=share_link)
-- [YouTube](https://youtu.be/YVTPp-r67h8?feature=shared)s
+- [YouTube](https://youtu.be/YVTPp-r67h8?feature=shared)

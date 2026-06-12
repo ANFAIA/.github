@@ -1,4 +1,4 @@
-# Agosto 2025
+# Jueves 21 de Agosto 2025
 
 ## Ponente: Pablo Botas
 

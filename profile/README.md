@@ -32,6 +32,13 @@ Consulta el programa completo aquí 👉 [anfaia.org/#programa](https://www.anfa
 ## Charlas Anfaia
 - Ismael Faro: [“Uso de la IA como herramienta de programación”](../charlas/Ismael_faro.md)
 - Pablo García Fortes: ["El viaje del autoconocimiento: Navegando la reinvención profesional con propósito"](../charlas/pablo_garcia.md)
+- Antonio Fernandes: ["Memento Mori, hacker edition."](../charlas/antonio_fernandes.md)
+- Matías Molinas: ["Del laboratorio al quirófano: 25 años aplicando IA a la salud"](../charlas/matias_molinas.md)
+- Reinaldo Aguilera: ["De Vigo a Head de una consultora internacional"](../charlas/reinaldo_aguilera.md)
+- Alexandre Santorio: ["Cómo la IA revolucionó mi proceso de diseño"](../charlas/alexandre_santorio.md)
+- Elías F. Combarro: ["De las matemáticas al quantum machine learning: mi maravilloso viaje de aprendizaje"](../charlas/elias_combarro.md)
+- David Ibáñez Cerdeira: ["Explorando la inteligencia artificial como compañera de aprendizaje y desarrollo"](../charlas/david_ibanez.md)
+- Pablo Botas: ["Escalas que salvan vidas: física, imágenes y genomas al servicio del paciente"](../charlas/pablo_botas.md)
 
 
 ## ¿Qué encontrarás en este GitHub?
